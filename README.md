@@ -1,5 +1,7 @@
 ## Real-Time-Task Collaboration React App
 
+This starts the React app on http://localhost:3000
+
 Run in a different terminal first: [Real-Time-Task_websocket-server](https://github.com/ElenkaSan/Real-Time-Task_websocket-server/blob/main/README.md)
 
 ```
@@ -29,6 +31,7 @@ Run the WebSocket server
 ```
 node server.js
 ```
+For every event (add Task, toggle Task, delete Task), the WebSocket server broadcasts the update to all clients, and you should see these logs in your terminal as on DevTools on console. 
 
 Second terminal 
 Start your React app 
@@ -36,3 +39,14 @@ Start your React app
 ```
 npm start
 ```
+Open http://localhost:3000 and see how it should be
+
+https://github.com/user-attachments/assets/b712ca6d-6c9d-4c85-a8ec-598bb6d74954
+
+Run test 
+
+```
+npm test
+```
+
+
