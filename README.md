@@ -1,6 +1,6 @@
 ## Real-Time-Task Collaboration React App
 
-First run [Real-Time-Task_websocket-server](https://github.com/ElenkaSan/Real-Time-Task_websocket-server/blob/main/README.md)
+Run in a different terminal first: [Real-Time-Task_websocket-server](https://github.com/ElenkaSan/Real-Time-Task_websocket-server/blob/main/README.md)
 
 ```
 ├── Real-Time-Task_ReactApp/      # Contains your React app
