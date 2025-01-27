@@ -2,7 +2,7 @@
 
 This starts the React app on http://localhost:3000
 
-### The first run in a different terminal: [Real-Time-Task_websocket-server](https://github.com/ElenkaSan/Real-Time-Task_websocket-server/blob/main/README.md)
+### The first run in a different terminal: [Real-Time-Task_websocket-server](https://github.com/ElenkaSan/Real-Time-Task_websocket-server/tree/main)
 
 ```
 ├── Real-Time-Task_ReactApp/      # Contains your React app
